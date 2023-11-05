@@ -2,6 +2,8 @@
 
 Ce guide vous expliquera comment utiliser Power BI pour créer des visualisations de données et comment déployer ces visualisations sur Vercel pour les partager en ligne.
 
+![Sales Data](https://github.com/Ayoub-etoullali/Power-BI-Sales-Website/assets/92756846/e4becc50-f3fc-4b77-abba-69886205ad22)
+
 ## Étape 1 : Créer des Visualisations de Données avec Power BI
 
 1. Assurez-vous d'avoir Power BI Desktop installé sur votre ordinateur.
